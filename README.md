@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timstittus&label=Profile%20views&color=0e75b6&style=flat" alt="timstittus" /> </p>
 
+- 👨🏼‍💻 LinkedIn [https://www.linkedin.com/in/tims-tittus-b90b46290](https://www.linkedin.com/in/tims-tittus-b90b46290)
+
 - 📝 I regularly write articles on [https://medium.com/@timstittus1](https://medium.com/@timstittus1)
 
 - 📫 How to reach me **timstittus1@gmail.com**
