@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tims Tittus</h1>
-<h3 align="center">I'm a Computer Science Engineering student specializing in Cyber Security at St Joseph's College of Engineering and Technology, Palai. My focus is on programming, analytical skills, and excelling academically. I have a keen interest in cryptography, networking, optical fibers, cyber security, and hacking. My passion lies in staying updated on cybersecurity trends, with the ultimate goal of becoming an expert in these domains and contributing to the field for a successful career in Cyber Security.</h3>
+<h3 align="center">I'm a Computer Science Engineering student specializing in Cyber Security at St Joseph's College of Engineering and Technology, Palai. My focus is on programming, analytical skills, and excelling academically.</h3>
+<h3>I have a keen interest in cryptography, networking, optical fibers, cyber security, and hacking. My passion lies in staying updated on cybersecurity trends, with the ultimate goal of becoming an expert in these domains and contributing to the field for a successful career in Cyber Security.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/CKI21v0kbp52ioPzOINSUh87LRkMTrN2Nv-8PN8E5Ic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timstittus&label=Profile%20views&color=0e75b6&style=flat" alt="timstittus" /> </p>
