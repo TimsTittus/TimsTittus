@@ -30,6 +30,6 @@
 
 [![Tims Tittus github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TimsTittus&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/TimsTittus/github-readme-activity-graph)
 
-<img align="center" alt="Kyubey" width="600" height="400" src="![kyubey](https://github.com/TimsTittus/TimsTittus/assets/151863700/e239dccd-a261-4eed-ac4e-85ae384372ce)">
+<img align="center" alt="Kyubey" width="600" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWsxYjZhaGxmZ2F6bTBlc2QxMHR0ZzA5cDkxb28zeDRrMWkxZzg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IAFfSbWEokmxnXPSzg/200.webp">
 
 ***Thanks for visiting my profile.***
