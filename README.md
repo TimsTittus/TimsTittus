@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tims Tittus</h1>
+
 <h3 align="center">I'm a Computer Science Engineering student specializing in Cyber Security at St Joseph's College of Engineering and Technology, Palai. My focus is on programming, analytical skills, and excelling academically.</h3>
 <h3>I have a keen interest in cryptography, networking, optical fibers, cyber security, and hacking. My passion lies in staying updated on cybersecurity trends, with the ultimate goal of becoming an expert in these domains and contributing to the field for a successful career in Cyber Security.</h3>
 
-<img align="right" alt="Coding" width="600" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt4amZsZnFuZWxiaDhyMjRvem1nOTd6OW50NjdpMjU0ZXp1ZGVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Ft3NkG47dwmA/giphy.gif">
+<img align="centre" alt="Coding" width="950" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timstittus&label=Profile%20views&color=0e75b6&style=flat" alt="timstittus" /> </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 - 👨🏼‍💻 LinkedIn [https://www.linkedin.com/in/tims-tittus-b90b46290](https://www.linkedin.com/in/tims-tittus-b90b46290)
 
@@ -20,6 +23,8 @@
 <a href="https://instagram.com/tims_tittus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tims_tittus" height="30" width="40" /></a>
 <a href="https://medium.com/@tims tittus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tims tittus" height="30" width="40" /></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
@@ -41,6 +46,8 @@
 
 [![Tims Tittus github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TimsTittus&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/TimsTittus/github-readme-activity-graph)
 
-<img align="center" alt="Kyubey" width="600" height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWsxYjZhaGxmZ2F6bTBlc2QxMHR0ZzA5cDkxb28zeDRrMWkxZzg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IAFfSbWEokmxnXPSzg/200.webp">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="90" width="1050">
 
 ***Thanks for visiting my profile.***
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="2000">
