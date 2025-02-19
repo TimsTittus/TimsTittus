@@ -46,7 +46,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=fff)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-%231679A7.svg?style=for-the-badge&logo=Nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burpsuite](https://img.shields.io/badge/Burpsuite-%23F24E1E.svg?style=for-the-badge&logo=Burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-430098.svg?style=for-the-badge&logo=Metasploit&logoColor=fffe)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack_ng-0051FF.svg?style=for-the-badge&logo=Aircrack_ng&logoColor=fff)
+![Zphisher](https://img.shields.io/badge/Zphisher-%23D90007.svg?style=for-the-badge&logo=Zphisher&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698.svg?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![TorProject](https://img.shields.io/badge/-Tor%20Project-%237E4798?style=for-the-badge&logo=torproject&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
