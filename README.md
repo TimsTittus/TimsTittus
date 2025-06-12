@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Computer Science Engineering student specializing in Cyber Security at St Joseph's College of Engineering and Technology, Palai. My focus is on programming, analytical skills, and excelling academically.</h3>
 <h3>I have a keen interest in cryptography, networking, optical fibers, cyber security, and hacking. My passion lies in staying updated on cybersecurity trends, with the ultimate goal of becoming an expert in these domains and contributing to the field for a successful career in Cyber Security.</h3>
 
-<img align="centre" alt="Coding" width="950" height="500" src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif">
+<img align="centre" alt="Coding" width="950" height="425" src="https://user-images.githubusercontent.com/68038931/147838946-616b4ed7-2e9c-4c03-8cdd-65b2b00b2d79.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timstittus&label=Profile%20views&color=0e75b6&style=flat" alt="timstittus" /> </p>
