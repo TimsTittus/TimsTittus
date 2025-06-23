@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tims Tittus</h1>
+<h1 align="center">Hi , I'm Tims Tittus</h1>
 
 <h3 align="center">I'm a Computer Science Engineering student specializing in Cyber Security at St Joseph's College of Engineering and Technology, Palai. My focus is on programming, analytical skills, and excelling academically.</h3>
 <h3 align="center">I have a keen interest in cryptography, networking, optical fibers, cyber security, and hacking. My passion lies in staying updated on cybersecurity trends, with the ultimate goal of becoming an expert in these domains and contributing to the field for a successful career in Cyber Security.</h3>
